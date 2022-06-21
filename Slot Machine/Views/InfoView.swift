@@ -21,7 +21,7 @@ struct InfoView: View {
           FormRowView(firstItem: "Application", secondItem: "Slot Machine")
           FormRowView(firstItem: "Platforms", secondItem: "iPhone, iPad, Mac")
           FormRowView(firstItem: "Developer", secondItem: "Wycliff / N")
-          FormRowView(firstItem: "Website", secondItem: "swiftuimasterclass.com")
+          FormRowView(firstItem: "Website", secondItem: "wycliffportfolio.web.app")
           FormRowView(firstItem: "Copyright", secondItem: "© All rights reserved.")
           FormRowView(firstItem: "Version", secondItem: "1.0.1")
         }
